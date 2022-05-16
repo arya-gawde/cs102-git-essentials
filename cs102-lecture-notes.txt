@@ -1,0 +1,16 @@
+5 git commands and its description:
+
+(i) git --version:
+It gives us the current version of Git installed on the device.
+
+(ii) git commit 
+A command to update the repository with either addition of new files and directories or changes to the files stored in the repository.
+
+(iii) git status
+A command to show the status of the repository.
+
+(iv) git clone:
+A command to clone a particular repository from a remote server (GitHub) into a particular directory (local repository) on the device.
+
+(v) git push:
+A command to update changes from the local repository onto the remote server.
