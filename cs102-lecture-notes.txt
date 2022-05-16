@@ -14,3 +14,14 @@ A command to clone a particular repository from a remote server (GitHub) into a 
 
 (v) git push:
 A command to update changes from the local repository onto the remote server.
+----------------------------------------
+Summary of lecture on 13-05-2022 (Friday):
+
+In this lecture, the topic of discussion was the Markdown language.
+
+Markdown is a language for inserting formatted text in a plain text format. Markdown files can be edited using Visual Studio Code after installing an extension for Markdown. Using this, your changes in your file code can be previewed simultaneously.
+Via markdown, we can also insert lists, images and hyperlinks.
+
+The concept of headers and paragraph text was introduced in the lecture. There are six different levels of text headers in order of decreasing size and importance. The biggest text header is inserted using the # symbol. The second biggest header (subtitle) is inserted using the ## symbol and so on. The paragraph text can be added by simply typing text onto a new line without any symbol.
+
+
